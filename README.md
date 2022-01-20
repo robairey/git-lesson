@@ -2,4 +2,4 @@
 
 **Location:** Online
 
-This repo associated with our lessson on version control
+This repo is associated with our lessson on version control
